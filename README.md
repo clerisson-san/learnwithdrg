@@ -21,3 +21,5 @@ If you have a question about something, open up an issue! I'd love to chat about
 Did you attend one of my talks? SHAWEET - check out my [Talks with Dr G](https://guthals.com/talkswithdrg) repo for resources I mention in talks!
 
 If you have a sample project that you want to share, let me know! I'd love to highlight it in a blog, or try it out myself in my [Build with Dr G](https://github.com/sguthals/buildwithdrg) repo and add some guides around it as I learn it too :) (Don't worry, I will of course credit you and link to your original work!)
+
+-----------------------
